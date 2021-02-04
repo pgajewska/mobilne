@@ -1,3 +1,216 @@
+{
+   "filmy":[
+      {
+         "tytul":"Zielona mila",
+         "rezyser":"Frank Darabont",
+         "gatunek":"Dramat",
+         "kraj":"USA",
+         "dataPremiery":"6.12.1999",
+         "opis":"Emerytowany strażnik więzienny opowiada przyjaciółce o niezwykłym mężczyźnie, którego skazano na śmierć za zabójstwo dwóch 9-letnich dziewczynek.",
+         "plakat":"https://fwcdn.pl/fpo/08/62/862/7517878.6.jpg",
+         "glownaPostac":{
+            "postac":"Paul Edgecomb",
+            "aktor":"Tom Hanks",
+            "znanyZ":[
+               {
+                  "film":"Forrest Gump (1994)"
+               },
+               {
+                  "film":"Szeregowiec Ryan (1998)"
+               },
+               {
+                  "film":"Kod da Vinci (2006)"
+               }
+            ]
+         }
+      },
+      {
+         "tytul":"Forrest Gump",
+         "rezyser":"Robert Zemeckis",
+         "gatunek":"Dramat / Komedia",
+         "kraj":"USA",
+         "dataPremiery":"23.06.1994",
+         "opis":"Historia życia Forresta, chłopca o niskim ilorazie inteligencji z niedowładem kończyn, który staje się miliarderem i bohaterem wojny w Wietnamie.",
+         "plakat":"https://fwcdn.pl/fpo/09/98/998/7314731.3.jpg",
+         "glownaPostac":{
+            "postac":"Forrest Gump",
+            "aktor":"Tom Hanks",
+            "znanyZ":[
+               {
+                  "film":"Zielona mila (1999)"
+               },
+               {
+                  "film":"Szeregowiec Ryan (1998)"
+               },
+               {
+                  "film":"Kod da Vinci (2006)"
+               }
+            ]
+         }
+      },
+      {
+         "tytul":"Matrix",
+         "rezyser":"Lilly Wachowski",
+         "gatunek":"Akcja / Sci-Fi",
+         "kraj":"Australia / USA",
+         "dataPremiery":"24.03.1999",
+         "opis":"Haker komputerowy Neo dowiaduje się od tajemniczych rebeliantów, że świat, w którym żyje, jest tylko obrazem przesyłanym do jego mózgu przez roboty.",
+         "plakat":"https://fwcdn.pl/fpo/06/28/628/7685907.3.jpg",
+         "glownaPostac":{
+            "postac":"Neo",
+            "aktor":"Keanu Reeves",
+            "znanyZ":[
+               {
+                  "film":"Adwokat diabła (1997)"
+               },
+               {
+                  "film":"Constantine (2005)"
+               },
+               {
+                  "film":"Matrix Reaktywacja (2003)"
+               }
+            ]
+         }
+      },
+      {
+         "tytul":"Avatar",
+         "rezyser":"James Cameron",
+         "gatunek":"Sci-Fi",
+         "kraj":"USA / Wielka Brytania",
+         "dataPremiery":"10.12.2009",
+         "opis":"Jake, sparaliżowany były komandos, zostaje wysłany na planetę Pandora, gdzie zaprzyjaźnia się z lokalną społecznością i postanawia jej pomóc.",
+         "plakat":"https://i1.fdbimg.pl/kg3q3l/1012x1500_l5b3zd.jpg",
+         "glownaPostac":{
+            "postac":"Jake Sully",
+            "aktor":"Sam Worthington",
+            "znanyZ":[
+               {
+                  "film":"Przełęcz ocalonych (2016)"
+               },
+               {
+                  "film":"Terminator: Ocalenie (2009)"
+               },
+               {
+                  "film":"Starcie tytanów (2010)"
+               }
+            ]
+         }
+      },
+      {
+         "tytul":"Shrek",
+         "rezyser":"Andrew Adamson / Vicky Jenson",
+         "gatunek":"Animacja / Familijny / Komedia",
+         "kraj":"USA",
+         "dataPremiery":"22.04.2001",
+         "opis":"By odzyskać swój dom, brzydki ogr z gadatliwym osłem wyruszają uwolnić piękną księżniczkę.",
+         "plakat":"https://fwcdn.pl/fpo/95/09/9509/7919220.6.jpg",
+         "glownaPostac":{
+            "postac":"Shrek",
+            "aktor":"Mike Myers",
+            "znanyZ":[
+               {
+                  "film":"Bękarty wojny (2009)"
+               },
+               {
+                  "film":"Austin Powers i Złoty Członek (2002)"
+               },
+               {
+                  "film":"Bohemian Rhapsody (2018)"
+               }
+            ]
+         }
+      },
+      {
+         "tytul":"Pulp Fiction",
+         "rezyser":"Quentin Tarantino",
+         "gatunek":"Gangsterski",
+         "kraj":"USA",
+         "dataPremiery":"12.05.1994",
+         "opis":"Przemoc i odkupienie w opowieści o dwóch płatnych mordercach pracujących na zlecenie mafii, żonie gangstera, bokserze i parze okradającej ludzi w restauracji.",
+         "plakat":"https://fwcdn.pl/fpo/10/39/1039/7517880.3.jpg",
+         "glownaPostac":{
+            "postac":"Vincent Vega",
+            "aktor":"John Travolta",
+            "znanyZ":[
+               {
+                  "film":"Grease (1978)"
+               },
+               {
+                  "film":"I kto to mówi (1989)"
+               },
+               {
+                  "film":"Bez twarzy (1997)"
+               }
+            ]
+         }
+      },
+      {
+         "tytul":"Szósty zmysł",
+         "rezyser":"M. Night Shyamalan",
+         "gatunek":"Thriller",
+         "kraj":"USA",
+         "dataPremiery":"2.08.1999",
+         "opis":"Psycholog dziecięcy próbuje pomóc ośmioletniemu chłopcu widzącemu zmarłych poradzić sobie z tym niezwykłym darem.",
+         "plakat":"https://fwcdn.pl/fpo/08/25/825/7559549.6.jpg",
+         "glownaPostac":{
+            "postac":"Malcolm Crowe",
+            "aktor":"Bruce Willis",
+            "znanyZ":[
+               {
+                  "film":"Piąty element (1997)"
+               },
+               {
+                  "film":"Armageddon (1998)"
+               },
+               {
+                  "film":"Szklana pułapka (1988)"
+               }
+            ]
+         }
+      },
+      {
+         "tytul":"Piękny umysł",
+         "rezyser":"Ron Howard",
+         "gatunek":"Biograficzny / Dramat",
+         "kraj":"USA",
+         "dataPremiery":"13.12.2001",
+         "opis":"Geniusz matematyczny John Nash za wszelką cenę pragnie opracować teorię, dzięki której zostanie cenionym naukowcem. Przeszkodą staje się jego stopniowo rozwijająca choroba.",
+         "plakat":"https://i1.fdbimg.pl/ha7aa01/450x600_kd3apg.jpg",
+         "glownaPostac":{
+            "postac":"John Forbes Nash Jr.",
+            "aktor":"Russell Crowe",
+            "znanyZ":[
+               {
+                  "film":"Gladiator (2000)"
+               },
+               {
+                  "film":"American Gangster (2007)"
+               },
+               {
+                  "film":"Robin Hood (2010)"
+               }
+            ]
+         }
+      },
+      {
+         "tytul":"Efekt motyla",
+         "rezyser":"J. Mackye Gruber / Eric Bress",
+         "gatunek":"Thriller / Sci-Fi",
+         "kraj":"Kanada / USA",
+         "dataPremiery":"22.01.2004",
+         "opis":"Evan, który potrafi podróżować w czasie, przekona się, że nawet najdrobniejsza zmiana w przeszłości ma kolosalny wpływ na teraźniejszość.",
+         "plakat":"https://fwcdn.pl/fpo/02/52/40252/7788918.6.jpg",
+         "glownaPostac":{
+            "postac":"Evan Treborn",
+            "aktor":"Ashton Kutcher",
+            "znanyZ":[
+               {
+                  "film":"Co się zdarzyło w Las Vegas (2008)"
+               },
+               {
+                  "film":"Różowe lata 70. (1998)"
+               },
+               {
                   "film":"Pan i Pani Kiler (2010)"
                }
             ]
